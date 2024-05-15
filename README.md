@@ -3,3 +3,5 @@
 [![Xing](https://img.shields.io/badge/Xing-Hire%20me-0088cc?logo=xing)](https://www.xing.com/profile/Lucas_Venturini)
 [![Facebook](https://img.shields.io/badge/Facebook-Chill%20with%20me-0088cc?logo=facebook)](https://www.facebook.com/lucas.venturini.399)
 [![Mail](https://img.shields.io/badge/Mail-Write%20me-0088cc?logo=gmail&logoColor=ffffff)](mailto:lucas.j.venturini@gmail.com)
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=difuoan)](https://github.com/anuraghazra/github-readme-stats)
