@@ -5,4 +5,4 @@
 [![Mail](https://img.shields.io/badge/Mail-Write%20me-0088cc?logo=gmail&logoColor=ffffff)](mailto:lucas.j.venturini@gmail.com)
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=difuoan&show_icons=true&theme=github_dark_dimmed)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=difuoan&show_icons=true&theme=github_dark_dimmed)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=difuoan&show_icons=true&theme=github_dark_dimmed&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
