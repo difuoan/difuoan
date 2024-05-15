@@ -2,4 +2,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow%20me-0088cc?logo=linkedin)](https://www.linkedin.com/in/lucas-venturini-73a392206/)
 [![Xing](https://img.shields.io/badge/Xing-Hire%20me-0088cc?logo=xing)](https://www.xing.com/profile/Lucas_Venturini)
 [![Facebook](https://img.shields.io/badge/Facebook-Chill%20with%20me-0088cc?logo=facebook)](https://www.facebook.com/lucas.venturini.399)
-[![Mail](https://img.shields.io/badge/Mail-Write%20me-0088cc?logo=gmail)](mailto:lucas.j.venturini@gmail.com)
+[![Mail](https://img.shields.io/badge/Mail-Write%20me-0088cc?logo=gmail&logoColor=ffffff)](mailto:lucas.j.venturini@gmail.com)
