@@ -8,5 +8,5 @@
 [![Mail](https://img.shields.io/badge/Mail-Write%20me-0088cc?logo=gmail&logoColor=ffffff)](mailto:lucas.j.venturini@gmail.com)
 [![Xing](https://img.shields.io/badge/Xing-Hire%20me-0088cc?logo=xing)](https://www.xing.com/profile/Lucas_Venturini)
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="top" src="https://github-readme-stats.vercel.app/api?username=difuoan&show_icons=true" alt="Lucas github stats" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="top" src="https://github-readme-stats.vercel.app/api?username=difuoan&show_icons=true&hide_title=true" alt="Lucas github stats" /></a>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=difuoan&show_icons=true&layout=compact" alt="Lucas top languages" /></a>
