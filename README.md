@@ -1,7 +1,12 @@
 <div style="width: 100%;">
   <img src="helloWorld.svg" style="width: 100%;" alt="Hello World, I'm Lucas Venturini">
 </div>
-<p>... a seasoned software developer with over 12 years of experience in building robust and scalable web applications. Based in Vienna, I'm passionate about leveraging cutting-edge technologies to create digital solutions that delight users. My expertise spans across various domains, including web development, with a strong focus on Vue.js and Docker. Explore my projects, forked repositories, and contributions here on GitHub. Let's connect and collaborate on innovative projects!</p>
+
+</br>
+
+<p>... a seasoned software developer with over 12 years of experience in building robust and scalable web applications. Based in <a href="https://en.wikipedia.org/wiki/Vienna">Vienna</a>, I'm passionate about leveraging cutting-edge technologies to create digital solutions that delight users. My expertise spans across various domains, including web development, with a strong focus on Vue.js and Docker. Explore my projects, forked repositories, and contributions here on GitHub. Let's connect and collaborate on innovative projects!</p>
+
+</br>
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=difuoan)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow%20me-0088cc?logo=linkedin)](https://www.linkedin.com/in/lucas-venturini-73a392206/)
@@ -16,6 +21,7 @@
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=difuoan&show_icons=true&layout=compact" alt="Lucas top languages" />
 </a>
 
+</br>
 </br>
 </br>
 
