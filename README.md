@@ -4,7 +4,7 @@
 
 </br>
 
-<img src="https://skillicons.dev/icons?i=ae,au,azure,babel,bash,bitbucket,bootstrap,cs,css,d3,docker,dotnet,figma,git,github,gitlab,godot,graphql,html,idea,ai,js,jest,jquery,less,linux,mysql,nodejs,npm,nuxtjs,ps,php,phpstorm,postgres,postman,powershell,pr,regex,sass,sublime,tailwind,threejs,ts,ubuntu,unity,visualstudio,vite,vitest,vscode,vue,webpack,windows,wordpress,yarn&perline=4" align="right"/>
+<img src="https://skillicons.dev/icons?i=ae,au,azure,babel,bash,bitbucket,bootstrap,cs,css,d3,docker,dotnet,figma,git,github,gitlab,godot,graphql,html,idea,ai,js,jest,jquery,less,linux,mysql,nodejs,npm,nuxtjs,ps,php,phpstorm,postgres,postman,powershell,pr,regex,sass,sublime,tailwind,threejs,ts,ubuntu,unity,visualstudio,vite,vitest,vscode,vue,webpack,windows,wordpress,yarn&perline=5" align="right"/>
 
 <p>... a seasoned software developer with over 12 years of experience in building robust and scalable web applications. Based in <a href="https://en.wikipedia.org/wiki/Vienna">Vienna</a>, I'm passionate about leveraging cutting-edge technologies to create digital solutions that delight users. My expertise spans across various domains, including web development, with a strong focus on Vue.js and Docker. Explore my projects, forked repositories, and contributions here on GitHub. Let's connect and collaborate on innovative projects!</p>
 
@@ -19,6 +19,10 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=difuoan&show_icons=true&hide_title=true" alt="Lucas github stats" />
 </a>
+
+</br>
+</br>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=difuoan&show_icons=true&layout=compact" alt="Lucas top languages" />
 </a>
