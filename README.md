@@ -13,8 +13,8 @@
 [![Xing](https://img.shields.io/badge/Xing-Hire%20me-0088cc?logo=xing)](https://www.xing.com/profile/Lucas_Venturini)
 
 <p>
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=difuoan&show_icons=true&hide_title=true&hide_rank=true" alt="Lucas github stats" />
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=difuoan&show_icons=true&layout=compact" alt="Lucas top languages" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=difuoan&show_icons=true&hide_title=true&hide_rank=true" alt="Lucas github stats" width="34%"/>
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=difuoan&show_icons=true&layout=compact" alt="Lucas top languages" width="28.5%"/>
 </p>
 
 <div>
