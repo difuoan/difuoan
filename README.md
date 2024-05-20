@@ -12,8 +12,8 @@
 -----
 
 <p align="center">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=difuoan&show_icons=true&hide_title=true&hide_rank=true" alt="Lucas github stats" width="53.25%"/>
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=difuoan&show_icons=true&layout=compact" alt="Lucas top languages" width="44.75%"/>
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=difuoan&show_icons=true&hide_title=true&hide_rank=true" alt="Lucas github stats" width="53.25%"/>
 </p>
 
 <p align="center">
