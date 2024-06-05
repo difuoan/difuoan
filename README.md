@@ -1,6 +1,6 @@
-<p>
+<a href="http://www.venturini.codes" target="_blank">
   <img src="helloWorld.svg" width="100%" alt="Hello World, I'm Lucas Venturini">
-</p>
+</a>
 
 <p>... a seasoned software developer with over 12 years of experience in building robust and scalable web applications. Based in Vienna, I'm passionate about leveraging cutting-edge technologies to create digital solutions that delight users. My expertise spans across various domains, including web development, with a strong focus on Vue.js and Docker. Explore my projects, forked repositories, and contributions here on GitHub. Let's connect and collaborate on innovative projects!</p>
 
