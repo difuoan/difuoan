@@ -12,18 +12,22 @@
 -----
 
 <p align="center">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=difuoan&show_icons=true&layout=compact" alt="Lucas top languages" width="44.75%"/>
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=difuoan&show_icons=true&hide_title=true&hide_rank=true" alt="Lucas github stats" width="53.25%"/>
+  <a href="https://github.com/difuoan?tab=repositories" target="_blank">
+    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=difuoan&show_icons=true&layout=compact" alt="Lucas top languages" width="44.75%"/>
+    <img align="top" src="https://github-readme-stats.vercel.app/api?username=difuoan&show_icons=true&hide_title=true&hide_rank=true" alt="Lucas github stats" width="53.25%"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ae,au,azure,babel,bash,bitbucket,bootstrap,cs,css,d3,docker,dotnet,figma,git,github,gitlab,godot,graphql,html,idea,ai,js,jest,jquery,less,linux,mysql,nodejs,npm,nuxtjs,ps,php,phpstorm,postgres,postman,powershell,pr,regex,sass,sublime,tailwind,threejs,ts,ubuntu,unity,visualstudio,vite,vitest,vscode,vue,webpack,windows,wordpress,yarn&perline=18" width="98.5%"/>
+  <a href="https://github.com/difuoan?tab=repositories" target="_blank">
+    <img src="https://skillicons.dev/icons?i=ae,au,azure,babel,bash,bitbucket,bootstrap,cs,css,d3,docker,dotnet,figma,git,github,gitlab,godot,graphql,html,idea,ai,js,jest,jquery,less,linux,mysql,nodejs,npm,nuxtjs,ps,php,phpstorm,postgres,postman,powershell,pr,regex,sass,sublime,tailwind,threejs,ts,ubuntu,unity,visualstudio,vite,vitest,vscode,vue,webpack,windows,wordpress,yarn&perline=18" width="98.5%"/>
+  </a>
 </p>
 
 -----
 
 <p>
-  <a href="https://github.com/tjventurini">
+  <a href="https://github.com/tjventurini" target="_blank">
     <img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/4708070?v=4&w=300&h=300&fit=cover&mask=circle" style="color:red" height="auto" width="50px" align="left"/>
   </a>
   <b>Looking for a Backend Developer instead?</b>
